@@ -1,0 +1,19 @@
+Arduino Examples for ADI pre-HackNY Hardware Hacking Workshop
+=============================================================
+
+LED_Digital_Trail
+ - Simple sweeping back and forth across 4 LEDs
+
+LED_PWM_Trail
+ - Sweeping back and forth with PWM
+ - Secondary LEDs have lower PWM levels
+
+LED_Var_Speed
+ - Digital sweep with speed controlled by potentiometer
+
+LED_Var_Speed_PWM
+ - PWM sweep with speed controlled by potentiometer
+
+LED_Var_Speed_Pause_ISR_PWM
+ - Variable speed PWM sweep
+ - Sweeping can be paused by push button via interrupt
